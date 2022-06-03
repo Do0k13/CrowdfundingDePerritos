@@ -2,7 +2,7 @@
 
 Smart Contract desarrollado en la Blockchain de NEAR protocol
 
-Presentación de la Iniciativa: https://docs.google.com/presentation/d/16Ce0b96TV7RcH24vtSi-L-xDIgegLfS0n420fM8Bd8U
+Presentación de la Iniciativa: https://docs.google.com/presentation/d/e/2PACX-1vRE7iMxj0v_ypMXnvHAP0YYS-Mrt-elylu1gnikHQE60MhtVXPkB0v_GYfg9QwbbyUyaQWQEReSnYrQ/pub?start=true&loop=false&delayms=10000
 
 Nuestra propuesta es enfocada a apoyar a perritos en situación de abandono, ya sea en la calle o en albergues, la meta inicial es conseguir apoyo para gastos como alimentación, veterinario y aseo. Nuestro contrato permite recibir donaciones desde wallets NEAR, dar de alta nuevas subcuentas en la wallet, dar de alta perritos con detalles como donación requerida y el albergue en el que se encuentran y consultar datos sobre algún perrito en específico; los puntos a mejorar serían los siguientes en una versión 2.0 :
 
