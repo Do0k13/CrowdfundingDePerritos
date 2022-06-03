@@ -1,0 +1,12 @@
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/borsh-8a7b880473c54de0.rmeta: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/libborsh-8a7b880473c54de0.rlib: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/borsh-8a7b880473c54de0.d: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs:

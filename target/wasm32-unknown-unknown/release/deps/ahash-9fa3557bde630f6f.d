@@ -1,0 +1,12 @@
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/ahash-9fa3557bde630f6f.rmeta: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/convert.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/fallback_hash.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/operations.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/random_state.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/specialize.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/libahash-9fa3557bde630f6f.rlib: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/convert.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/fallback_hash.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/operations.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/random_state.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/specialize.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/ahash-9fa3557bde630f6f.d: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/convert.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/fallback_hash.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/operations.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/random_state.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/specialize.rs
+
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/lib.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/convert.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/fallback_hash.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/operations.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/random_state.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.4.7/src/specialize.rs:

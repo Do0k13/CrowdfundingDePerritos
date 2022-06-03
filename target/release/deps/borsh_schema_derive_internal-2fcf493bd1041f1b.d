@@ -1,0 +1,10 @@
+/home/sergio/Documents/Near/salvaPerritos/target/release/deps/borsh_schema_derive_internal-2fcf493bd1041f1b.rmeta: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/release/deps/libborsh_schema_derive_internal-2fcf493bd1041f1b.rlib: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/release/deps/borsh_schema_derive_internal-2fcf493bd1041f1b.d: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs:

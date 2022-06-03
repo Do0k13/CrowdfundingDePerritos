@@ -1,0 +1,12 @@
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/sha2-e5f3f79ffd098d74.rmeta: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/libsha2-e5f3f79ffd098d74.rlib: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/home/sergio/Documents/Near/salvaPerritos/target/wasm32-unknown-unknown/release/deps/sha2-e5f3f79ffd098d74.d: /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs:
+/home/sergio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs:
