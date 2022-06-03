@@ -26,8 +26,6 @@ Nuestra propuesta es enfocada a apoyar a perritos en situación de abandono, ya 
 
 ![image](https://user-images.githubusercontent.com/20521029/171917425-ef2a05ec-3396-4188-9093-9a9e8e28bf62.png)
 
-![image](https://user-images.githubusercontent.com/20521029/171947151-0841752d-e943-4219-90f5-86074e82b7d4.png)
-
 ![image](https://user-images.githubusercontent.com/20521029/171947238-7426d8b0-f745-4117-9f1f-50b6a5056139.png)
 
 ![image](https://user-images.githubusercontent.com/20521029/171947307-e3c3ce83-2593-49f9-9fac-ddfe6709626d.png)
@@ -52,51 +50,35 @@ Usando este Contrato
 
 Este smart contract será lanzado a tu cuenta NEAR. Para este ejemplo es necesario generar inicialmente la cuenta NEAR. Si quieres ejecutar este ejemplo en una cuenta NEAR que ha tenido anteriormente contratos lanzados, de favor usa el comando `near-cli` y el comando `near delete`, y después regenerarlo en la billetera. PAra generar (o regenerarl) una cuenta, de favor sigue las instrucciones de: [NEAR Wallet](https://wallet.near.org/).
 
-In the project root, log in to your newly created account  with `near-cli` by following the instructions after this command:
+En la carpeta raiz del proyecto, inicia sesión en tu billetera con `near-cli` ejecutando el siguiente comando:
 
     near login
 
-To make this tutorial easier to copy/paste, we're going to set an environment variable for your account id. In the below command, replace `MY_ACCOUNT_NAME` with the account name you just logged in with, including the `.near`:
+Para hacer el tutorial más fácil de replicar, asignaremos una variable de entorno para la cuenta. PAra replicar el ejercicio, en el comando siguiente reemplaza `dev-1654151703614-97110545887614` con la cuenta que utilizarás para realizar las pruebas, incluyendo `.near`:
 
-    ID=refugiolomito.testnet
+    ID=dev-1654151703614-97110545887614
 
-You can tell if the environment variable is set correctly if your command line prints the account name after this command:
+Puedes validar si la variable de entorno está asignada correctamente si se muestra al ejecutar el siguiente comando:
 
     echo $ID
 
-Now we can deploy the compiled contract in this example to your account:
+Ahora podemos lanzar la compilación de este contrato dentro de tu cuenta:
 
     near deploy --wasmFile res/fungible_token.wasm --accountId $ID
 
-FT contract should be initialized before usage. You can read more about metadata at ['nomicon.io'](https://nomicon.io/Standards/FungibleToken/Metadata.html#reference-level-explanation). Modify the parameters and create a token:
-
-    near call $ID new '{"owner_id": "'$ID'", "total_supply": "1000000", "metadata": { "spec": "ft-1.0.0", "name": "Perrito Token", "symbol": "PRTO", "decimals": 8 }}' --accountId $ID
-
-Get metadata:
+Obtén el metadata:
 
     near view $ID ft_metadata
 
 
-Ejemplo de Transferencia de Token
+Ejemplo de Registro de Perrito
 ---------------
 
-Usaremos la cuenta do0k13.testnet para trasferir fondos.
+llamaremos la cuenta dev-1654151703614-97110545887614 para generar un nuevo registro.
 
-Se agrega la variable storage_deposit para la cuenta:
-
-    near call $ID storage_deposit '{"account_id": "do0k13.testnet", "registration_only": true }' --accountId do0k13.testnet --amount 0.00125
+    near call $ID set_registrar_perrito '{"refugio": "Refugio 8", "nombre": "Firulais", "meta": "100" }' --accountId $ID --amount 1
 
 
-Se valida el balance de la cuenta, actualmente debería ser cero:
-
-    near view $ID ft_balance_of '{"account_id": "'do0k13.testnet'"}'
-
-Se transfieren tokens a la wallet desde el contrato original, se debe adjuntar exactamente 1 yoctoNEAR de depósito:
-
-    near call $ID ft_transfer '{"receiver_id": "'do0k13.testnet'", "amount": "19"}' --accountId $ID --amount 0.000000000000000000000001
-
-
-Se valida nuevamente el balance y debería ser `19`.
 
 ## Testing
 
