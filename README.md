@@ -87,7 +87,7 @@ Adicionalmente, este proyecto tiene pruebas de simulación en `tests/sim`.Las pr
 Puedes correr pruebas unitarias con el siguiente comando:
 
 ```bash
-cd ft && cargo test -- --nocapture --color=always
+cargo test -- --nocapture --color=always
 ```
 
 Puedes correr pruebas de integración con los siguinetes comandos:
