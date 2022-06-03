@@ -1,7 +1,7 @@
 # LovePaws Crowdfunding
 ===================
 
-Smart Contract desarrollado en la Blockchain de NEAR protocol, es un ejemplo de implementación de un contrato que sigue los estándares NEAR [near-contract-standards] y los estándares de pruebas de sumulación [simulation] .
+Smart Contract desarrollado en la Blockchain de NEAR protocol, es un ejemplo de implementación de un contrato que sigue los estándares NEAR ([near-contract-standards]) y los estándares de pruebas de sumulación ([simulation]) .
 
  [near-contract-standards]: https://github.com/near/near-sdk-rs/tree/master/near-contract-standards
   [simulation]: https://github.com/near/near-sdk-rs/tree/master/near-sdk-sim
