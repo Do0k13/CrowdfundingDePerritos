@@ -21,9 +21,18 @@ Nuestra propuesta es enfocada a apoyar a perritos en situación de abandono, ya 
 
 *Alianzas estratégicas con proveedores para promociones con tokens PRTO
 
+# Mockups
+===================
+
 ![image](https://user-images.githubusercontent.com/20521029/171917425-ef2a05ec-3396-4188-9093-9a9e8e28bf62.png)
 
+![image](https://user-images.githubusercontent.com/20521029/171947151-0841752d-e943-4219-90f5-86074e82b7d4.png)
 
+![image](https://user-images.githubusercontent.com/20521029/171947238-7426d8b0-f745-4117-9f1f-50b6a5056139.png)
+
+![image](https://user-images.githubusercontent.com/20521029/171947307-e3c3ce83-2593-49f9-9fac-ddfe6709626d.png)
+
+![image](https://user-images.githubusercontent.com/20521029/171947376-1ecf46e1-d13a-4da1-b81b-45e0002e2822.png)
 
 Prerequisitos
 =============
